@@ -35,7 +35,7 @@ public class OperacionesCalculadora {
 			return false;
 		}
 		if (response.equalsIgnoreCase(no)) {
-			System.out.println("¡Adios!");
+			System.out.println("Saliendo de calculadora \n ¡Adios!");
 			return true;
 		} else {
 			System.out.println("Input no válido, debe introdcur una opción válida");

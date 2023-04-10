@@ -31,7 +31,7 @@ public class MenuCalculadora {
 				switch (opcion) {
 				case 0:
 					salir = true;
-					System.out.println("Saliendo de calculadora");
+ 
 					break;
 				case 1:
 					inputA = operacionesCalculadora.input(1);
